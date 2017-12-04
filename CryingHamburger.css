@@ -1,0 +1,24 @@
+h1 {
+  color: #F67F91;
+  font-style: italic;
+  text-transform: uppercase;
+  font-size: 60px;
+}
+
+p {
+  color: #00BF78;
+  text-align: center;
+}
+
+button {
+  background-color: #FF1F97;
+  color: white;
+}
+
+button:hover {
+  background-color: blue;
+}
+
+img {
+  display: none;
+}
